@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "index.js",
-  "author": "",
+  "author": "frederick",
   "repository": "",
   "license": "MIT",
   "private": false,
